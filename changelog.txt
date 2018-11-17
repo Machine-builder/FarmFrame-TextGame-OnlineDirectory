@@ -23,6 +23,4 @@ ADDED A WIKI!
 Lookup your items to see how to make them/
 what they are/do!
    
-Bug fixes... :)
-
-More secret stuff ;)
+Bug fixes... again :)
