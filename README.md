@@ -9,16 +9,16 @@ Craft new crafters!? ;)
 # releases :
 
 * version 0:
- - First tests of updating! :)
+ > First tests of updating! :)
  
 * version 1:
- - Bug fixes
+ > Bug fixes
  
 * version 2:
- - More fixes...
+ > More fixes...
  
 * version 3:
- - Work on something called a 'community chest'
+ > Work on something called a 'community chest'
    where players everywhere (all around the world)
    can put items & take items from.
    Do not put items in the community chest if you
@@ -34,16 +34,16 @@ Craft new crafters!? ;)
    & THUS I CANNOT SHARE IT ON GITHUB FOR SAFETY REASONS.
    SORRY :/
    
- - Added batteries!?
+ > Added batteries!?
  
- - Started work on Automation!
+ > Started work on Automation!
    (automatically get wood/rocks
    delivered to your inventory!)
  
- - ADDED A WIKI!
+ > ADDED A WIKI!
    Lookup your items to see how to make them/
    what they are/do!
    
- - Bug fixes... :)
+ > Bug fixes... :)
  
 I hope you guys enjoy the game! ;)
