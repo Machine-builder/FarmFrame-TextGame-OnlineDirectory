@@ -1,26 +1,26 @@
- What's new in update 3??
+What's new in update 3:
  
- - Work on something called a 'community chest'
-   where players everywhere (all around the world)
-   can put items & take items from.
-   Do not put items in the community chest if you
-   do want the item. Someone probably will take it...
-   COMMUNITY CHEST IS NOT AVAILABLE FOR USERS
-   WHO DOWNLOADED THE GAME FROM GITHUB!   
-   I AM ONLY GIVING THE COMMUNITY CHEST ADDON
-   TO PEOPLE I KNOW AND TRUST.   
-   THE COMMUNITY CHEST ADDON HAS PRIVATE CREDENTIALS
-   & THUS I CANNOT SHARE IT ON GITHUB FOR SAFETY REASONS.
-   SORRY :/
+Work on something called a 'community chest'
+where players everywhere (all around the world)
+can put items & take items from.
+Do not put items in the community chest if you
+do want the item. Someone probably will take it...
+COMMUNITY CHEST IS NOT AVAILABLE FOR USERS
+WHO DOWNLOADED THE GAME FROM GITHUB!   
+I AM ONLY GIVING THE COMMUNITY CHEST ADDON
+TO PEOPLE I KNOW AND TRUST.   
+THE COMMUNITY CHEST ADDON HAS PRIVATE CREDENTIALS
+& THUS I CANNOT SHARE IT ON GITHUB FOR SAFETY REASONS.
+SORRY :/
    
- - Added batteries!?
+Added batteries!?
+
+Started work on Automation!
+(automatically get wood/rocks
+delivered to your inventory!)
  
- - Started work on Automation!
-   (automatically get wood/rocks
-   delivered to your inventory!)
- 
- - ADDED A WIKI!
-   Lookup your items to see how to make them/
-   what they are/do!
+ADDED A WIKI!
+Lookup your items to see how to make them/
+what they are/do!
    
- - Bug fixes... :)
+Bug fixes... :)
