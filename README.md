@@ -44,5 +44,11 @@ Lookup your items to see how to make them/
 what they are/do!
    
 >Bug fixes... again :)
+
+* version 4:
+>If you download the game from
+GitHub you can now ACTUALLY run it :)
+lol before I forgot all the modules...
+but now they're included in the .zip
  
 I hope you guys enjoy the game! ;)
