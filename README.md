@@ -23,13 +23,10 @@ Craft new crafters!? ;)
    can put items & take items from.
    Do not put items in the community chest if you
    do want the item. Someone probably will take it...
-   
    COMMUNITY CHEST IS NOT AVAILABLE FOR USERS
-   WHO DOWNLOADED THE GAME FROM GITHUB!
-   
+   WHO DOWNLOADED THE GAME FROM GITHUB!   
    I AM ONLY GIVING THE COMMUNITY CHEST ADDON
-   TO PEOPLE I KNOW AND TRUST.
-   
+   TO PEOPLE I KNOW AND TRUST.   
    THE COMMUNITY CHEST ADDON HAS PRIVATE CREDENTIALS
    & THUS I CANNOT SHARE IT ON GITHUB FOR SAFETY REASONS.
    SORRY :/
